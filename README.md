@@ -36,4 +36,14 @@ Beyond consulting, I build and publish my own mobile applications. You can explo
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nidakayaduman&layout=compact&hide_border=true&theme=default" alt="Nida's top languages" />
 </p>
 
+<br />
+
+<p align="center">
+  <em>"No matter how isolated you are and how lonely you feel, if you do your work truly and conscientiously, unknown friends will come and seek you."</em>
+</p>
+
+<p align="center">
+  <strong>- Carl Jung</strong>
+</p>
+
 <!-- Private contribution visibility depends on GitHub profile contribution settings and the stats service permissions. -->
