@@ -1,3 +1,11 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=900&color=2F80ED&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Nida;AI+Consultant;Computer+Science+%26+Engineering+Graduate;Building+with+AI%2C+Data+and+Product" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nidakayaduman&label=Profile%20views&color=2f80ed&style=flat" alt="Profile views" />
+</p>
+
 # Hi, I'm Nida
 
 I'm a Computer Science and Engineering graduate from Sabanci University in Istanbul, Turkey, and I currently work as an AI Consultant.
