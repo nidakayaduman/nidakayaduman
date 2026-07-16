@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Nida
 
-<!--
-**nidakayaduman/nidakayaduman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science and Engineering graduate from Sabanci University in Istanbul, Turkey, and I currently work as an AI Consultant.
 
-Here are some ideas to get you started:
+My work sits at the intersection of artificial intelligence, data, consulting, and product development. I explore how machine learning, generative AI, and AI agents can be used to improve decisions, automate processes, and create better digital experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Beyond consulting, I build and publish my own mobile applications. You can explore my projects, applications, and other work on my personal website.
+
+- Website: [nidakayaduman.github.io](https://nidakayaduman.github.io)
+- LinkedIn: [linkedin.com/in/nidakayaduman](https://www.linkedin.com/in/nidakayaduman/)
+
+## Currently Interested In
+
+- Generative AI and AI agents
+- Machine learning and intelligent decision systems
+- Data-driven product development
+- Microsoft Azure and Copilot technologies
+- Mobile application development
+- Making complex technical concepts easier to understand
+
+## GitHub Stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=nidakayaduman&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=default" alt="Nida's GitHub stats" />
+</p>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nidakayaduman&layout=compact&hide_border=true&theme=default" alt="Nida's top languages" />
+</p>
+
+<!-- Private contribution visibility depends on GitHub profile contribution settings and the stats service permissions. -->
