@@ -28,6 +28,11 @@
         Beyond consulting, I build and publish my own mobile applications. You can explore my projects,
         applications, and other work on my personal website.
       </p>
+      <h3>Main Skills</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/SQL-1F2937?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+      </p>
     </td>
     <td width="50%" valign="top">
       <h3>Find Me</h3>
@@ -38,6 +43,14 @@
         <br />
         <a href="https://www.linkedin.com/in/nidakayaduman/">
           <img src="https://img.shields.io/badge/LinkedIn-nidakayaduman-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+        </a>
+        <br />
+        <a href="mailto:elifnida@gmail.com">
+          <img src="https://img.shields.io/badge/Email-elifnida%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+        </a>
+        <br />
+        <a href="https://www.credly.com/users/elif-nida-kayaduman">
+          <img src="https://img.shields.io/badge/Credly-Certifications-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly" />
         </a>
       </p>
       <h3>Currently Interested In</h3>
@@ -53,10 +66,21 @@
   </tr>
 </table>
 
+<p align="center">
+  <strong>Interested in my background, experience, or potential collaboration?</strong><br />
+  <a href="./assets/Nida_Kayaduman_CV.pdf">
+    <img src="https://img.shields.io/badge/Download%20CV-Nida%20Kayaduman-334155?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Download CV" />
+  </a>
+</p>
+
 ## GitHub Stats
 
 <p align="center">
   <img width="96%" src="./assets/github-stats.svg" alt="Nida's GitHub activity" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=nidakayaduman&theme=radical&hide_border=false" alt="GitHub streak stats" />
 </p>
 
 <br />
