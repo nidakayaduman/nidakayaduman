@@ -1,0 +1,75 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Nida Kaya Duman profile header</title>
+  <desc id="desc">Animated GitHub profile header for Nida Kaya Duman, AI Consultant.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0F172A"/>
+      <stop offset="0.45" stop-color="#13294B"/>
+      <stop offset="1" stop-color="#0B3B3C"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="120" y1="80" x2="1080" y2="280" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#60A5FA"/>
+      <stop offset="0.5" stop-color="#34D399"/>
+      <stop offset="1" stop-color="#F59E0B"/>
+    </linearGradient>
+    <filter id="softGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="18" result="blur"/>
+      <feColorMatrix in="blur" type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 0.55 0"/>
+      <feMerge>
+        <feMergeNode/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <style>
+      .title { font: 700 54px 'Segoe UI', Inter, Arial, sans-serif; fill: #F8FAFC; letter-spacing: 0; }
+      .subtitle { font: 500 24px 'Segoe UI', Inter, Arial, sans-serif; fill: #CBD5E1; letter-spacing: 0; }
+      .tag { font: 600 18px 'Segoe UI', Inter, Arial, sans-serif; fill: #E2E8F0; letter-spacing: 0; }
+      .small { font: 500 15px 'Segoe UI', Inter, Arial, sans-serif; fill: #94A3B8; letter-spacing: 0; }
+      .line { stroke: url(#accent); stroke-width: 3; stroke-linecap: round; stroke-dasharray: 980; stroke-dashoffset: 980; animation: draw 2.2s ease-out forwards; }
+      .fade { opacity: 0; animation: fadeIn 0.8s ease-out forwards; }
+      .delay1 { animation-delay: 0.25s; }
+      .delay2 { animation-delay: 0.65s; }
+      .delay3 { animation-delay: 1.05s; }
+      .pulse { animation: pulse 4s ease-in-out infinite; transform-origin: center; }
+      .float { animation: float 5s ease-in-out infinite; }
+      @keyframes draw { to { stroke-dashoffset: 0; } }
+      @keyframes fadeIn { to { opacity: 1; } }
+      @keyframes pulse { 0%, 100% { opacity: 0.55; transform: scale(1); } 50% { opacity: 1; transform: scale(1.06); } }
+      @keyframes float { 0%, 100% { transform: translateY(0); } 50% { transform: translateY(-10px); } }
+    </style>
+  </defs>
+
+  <rect width="1200" height="360" rx="28" fill="url(#bg)"/>
+  <path class="line" d="M110 86 C260 42 365 128 500 94 C670 52 764 76 910 132 C1004 168 1070 144 1110 104"/>
+  <path d="M96 286 C255 238 392 310 548 266 C716 218 812 244 952 282 C1038 305 1092 292 1134 258" stroke="#1E293B" stroke-width="2" stroke-linecap="round" opacity="0.8"/>
+
+  <g class="pulse" filter="url(#softGlow)">
+    <circle cx="1008" cy="104" r="54" fill="#2563EB" opacity="0.36"/>
+    <circle cx="1060" cy="154" r="34" fill="#10B981" opacity="0.34"/>
+    <circle cx="930" cy="176" r="26" fill="#F59E0B" opacity="0.34"/>
+  </g>
+
+  <g class="float" opacity="0.9">
+    <rect x="866" y="208" width="198" height="78" rx="16" fill="#0F172A" stroke="#334155"/>
+    <circle cx="900" cy="244" r="8" fill="#60A5FA"/>
+    <path d="M924 236 H1024 M924 256 H992" stroke="#94A3B8" stroke-width="7" stroke-linecap="round"/>
+  </g>
+
+  <g class="fade delay1">
+    <text x="92" y="142" class="small">AI CONSULTANT • DATA • PRODUCT DEVELOPMENT</text>
+    <text x="90" y="204" class="title">Hi, I'm Nida</text>
+  </g>
+
+  <g class="fade delay2">
+    <text x="94" y="246" class="subtitle">Building with generative AI, agents, machine learning and mobile apps.</text>
+  </g>
+
+  <g class="fade delay3">
+    <rect x="92" y="282" width="142" height="38" rx="19" fill="#172554" stroke="#3B82F6"/>
+    <text x="116" y="307" class="tag">Azure</text>
+    <rect x="250" y="282" width="126" height="38" rx="19" fill="#064E3B" stroke="#10B981"/>
+    <text x="274" y="307" class="tag">AI Agents</text>
+    <rect x="392" y="282" width="132" height="38" rx="19" fill="#451A03" stroke="#F59E0B"/>
+    <text x="416" y="307" class="tag">Mobile Apps</text>
+  </g>
+</svg>
