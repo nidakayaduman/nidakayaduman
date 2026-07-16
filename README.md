@@ -21,7 +21,7 @@
       <h3>About Me</h3>
       <p>
         My work sits at the intersection of artificial intelligence, data, consulting, and product development.
-        I explore how machine learning, generative AI, and AI agents can be used to improve decisions,
+        I explore how machine learning, generative AI, and intelligent systems can be used to improve decisions,
         automate processes, and create better digital experiences.
       </p>
       <p>
@@ -37,11 +37,9 @@
       </p>
       <h3>Currently Interested In</h3>
       <ul>
-        <li>Generative AI and AI agents</li>
+        <li>Generative AI</li>
         <li>Machine learning and intelligent decision systems</li>
         <li>Data-driven product development</li>
-        <li>Microsoft Azure and Copilot technologies</li>
-        <li>Mobile application development</li>
         <li>Making complex technical concepts easier to understand</li>
       </ul>
     </td>
@@ -51,7 +49,7 @@
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nidakayaduman&show_icons=true&hide_border=true&theme=transparent" alt="Nida's GitHub stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nidakayaduman&theme=github" alt="Nida's GitHub profile summary" />
 </p>
 
 <br />
