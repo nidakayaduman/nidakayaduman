@@ -32,14 +32,21 @@
     <td width="50%" valign="top">
       <h3>Find Me</h3>
       <p>
-        <a href="https://nidakayaduman.github.io/">Personal Website</a><br />
-        <a href="https://www.linkedin.com/in/nidakayaduman/">LinkedIn</a>
+        <a href="https://nidakayaduman.github.io/">
+          <img src="https://img.shields.io/badge/Website-nidakayaduman.github.io-0F172A?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+        </a>
+        <br />
+        <a href="https://www.linkedin.com/in/nidakayaduman/">
+          <img src="https://img.shields.io/badge/LinkedIn-nidakayaduman-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+        </a>
       </p>
       <h3>Currently Interested In</h3>
       <ul>
-        <li>Generative AI</li>
+        <li>Generative AI and AI agents</li>
         <li>Machine learning and intelligent decision systems</li>
         <li>Data-driven product development</li>
+        <li>Microsoft Azure and Copilot technologies</li>
+        <li>Mobile application development</li>
         <li>Making complex technical concepts easier to understand</li>
       </ul>
     </td>
