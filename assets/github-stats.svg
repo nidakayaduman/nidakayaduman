@@ -1,0 +1,63 @@
+<svg width="920" height="330" viewBox="0 0 920 330" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Nida Kaya Duman GitHub stats</title>
+  <desc id="desc">A static GitHub stats card for Nida Kaya Duman.</desc>
+  <defs>
+    <linearGradient id="panel" x1="0" y1="0" x2="920" y2="330" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0F172A"/>
+      <stop offset="0.52" stop-color="#111827"/>
+      <stop offset="1" stop-color="#0B3B3C"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="70" y1="72" x2="850" y2="180" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#60A5FA"/>
+      <stop offset="0.5" stop-color="#34D399"/>
+      <stop offset="1" stop-color="#F59E0B"/>
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="14" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <style>
+      .label { font: 600 15px 'Segoe UI', Inter, Arial, sans-serif; fill: #94A3B8; letter-spacing: 0; }
+      .value { font: 800 38px 'Segoe UI', Inter, Arial, sans-serif; fill: #F8FAFC; letter-spacing: 0; }
+      .title { font: 800 28px 'Segoe UI', Inter, Arial, sans-serif; fill: #F8FAFC; letter-spacing: 0; }
+      .caption { font: 500 16px 'Segoe UI', Inter, Arial, sans-serif; fill: #CBD5E1; letter-spacing: 0; }
+      .card { fill: rgba(15, 23, 42, 0.72); stroke: #334155; stroke-width: 1.2; }
+    </style>
+  </defs>
+
+  <rect width="920" height="330" rx="24" fill="url(#panel)"/>
+  <path d="M58 108 C170 74 258 120 362 101 C520 72 636 110 788 84 C826 78 858 80 884 92" stroke="url(#accent)" stroke-width="3.5" stroke-linecap="round" opacity="0.95"/>
+  <circle cx="808" cy="74" r="42" fill="#2563EB" opacity="0.28" filter="url(#glow)"/>
+  <circle cx="850" cy="119" r="26" fill="#10B981" opacity="0.28" filter="url(#glow)"/>
+  <circle cx="770" cy="148" r="20" fill="#F59E0B" opacity="0.25" filter="url(#glow)"/>
+
+  <text x="54" y="67" class="title">GitHub Activity</text>
+  <text x="54" y="96" class="caption">A quick snapshot of public work and profile activity.</text>
+
+  <g transform="translate(54 124)">
+    <rect class="card" width="380" height="74" rx="16"/>
+    <text x="22" y="31" class="label">Public Repos</text>
+    <text x="22" y="63" class="value">14</text>
+  </g>
+
+  <g transform="translate(486 124)">
+    <rect class="card" width="380" height="74" rx="16"/>
+    <text x="22" y="31" class="label">Contributions</text>
+    <text x="22" y="63" class="value">855</text>
+  </g>
+
+  <g transform="translate(54 222)">
+    <rect class="card" width="380" height="74" rx="16"/>
+    <text x="22" y="31" class="label">Followers</text>
+    <text x="22" y="63" class="value">4</text>
+  </g>
+
+  <g transform="translate(486 222)">
+    <rect class="card" width="380" height="74" rx="16"/>
+    <text x="22" y="31" class="label">Following</text>
+    <text x="22" y="63" class="value">4</text>
+  </g>
+</svg>

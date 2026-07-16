@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/header.svg" alt="Hi, I'm Nida - AI Consultant" width="100%" />
+  <img src="./assets/header-clean.svg" alt="Hi, I'm Nida - AI Consultant" width="100%" />
 </p>
 
 <p align="center">
@@ -56,12 +56,7 @@
 ## GitHub Stats
 
 <p align="center">
-  <img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nidakayaduman&theme=github_dark" alt="Nida's GitHub contribution graph" />
-</p>
-
-<p align="center">
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nidakayaduman&theme=github_dark" alt="Nida's GitHub stats" />
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nidakayaduman&theme=github_dark&utcOffset=3" alt="Nida's productive time" />
+  <img width="96%" src="./assets/github-stats.svg" alt="Nida's GitHub activity" />
 </p>
 
 <br />
