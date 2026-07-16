@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=900&color=2F80ED&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Nida;AI+Consultant;Computer+Science+%26+Engineering+Graduate;Building+with+AI%2C+Data+and+Product" alt="Typing SVG" />
+  <img src="./assets/header.svg" alt="Hi, I'm Nida - AI Consultant" width="100%" />
 </p>
 
 <p align="center">
