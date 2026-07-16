@@ -32,6 +32,10 @@
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
         <img src="https://img.shields.io/badge/SQL-1F2937?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+        <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" />
+        <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+        <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white" alt="Xcode" />
+        <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
       </p>
     </td>
     <td width="50%" valign="top">
@@ -74,10 +78,6 @@
 </p>
 
 ## GitHub Stats
-
-<p align="center">
-  <img width="96%" src="./assets/github-stats.svg" alt="Nida's GitHub activity" />
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=nidakayaduman&theme=radical&hide_border=false" alt="GitHub streak stats" />
