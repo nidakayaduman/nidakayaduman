@@ -70,21 +70,6 @@
   </tr>
 </table>
 
-<br />
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <strong>Interested in my background, experience, or potential collaboration?</strong>
-      <br />
-      <br />
-      <a href="./assets/Nida_Kayaduman_CV.pdf">
-        <img src="https://img.shields.io/badge/Download%20CV-Nida%20Kayaduman-334155?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Download CV" />
-      </a>
-    </td>
-  </tr>
-</table>
-
 ## GitHub Stats
 
 <p align="center">
